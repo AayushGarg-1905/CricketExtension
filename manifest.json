@@ -1,0 +1,11 @@
+{
+    "name":"Cricket Updates",
+    "version":"1.0.0",
+    "description":"Get live cricket scores",
+    "manifest_version":3,
+    "author":"Aayush Garg",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Cricket Updates"
+    }
+}

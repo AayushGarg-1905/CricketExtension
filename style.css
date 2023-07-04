@@ -1,0 +1,15 @@
+body {
+    min-width: 300px;
+    background-color:antiquewhite;
+}
+
+p{
+    font-size: medium;
+    font-style: italic;
+}
+
+li{
+    margin:3px 3px;
+    font-size:13px;
+    font-style: italic;
+}
